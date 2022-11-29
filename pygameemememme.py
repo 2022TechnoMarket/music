@@ -1,3 +1,9 @@
+
+#음악다운로드
+https://user-images.githubusercontent.com/119112927/204474960-c02d29af-d82d-49b8-a255-5ba12a1a5398.mp4
+https://user-images.githubusercontent.com/119112927/204474970-8dda56fc-ec01-4857-8ffa-77b624310149.mp4
+https://user-images.githubusercontent.com/119112927/204474981-04809b4c-e130-4ae8-969a-2845e079c029.mp4
+
 import pygame
 import time
 pygame.init() #초기화
@@ -28,14 +34,12 @@ while running:
     pygame.display.update()
     time.sleep(5)
     test_sound1.stop() 
-pygame.quit()
+pygame.quit() 
 
 
 
-
-
-
-
+ 
+  
 
 
 
