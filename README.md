@@ -1,3 +1,7 @@
+https://user-images.githubusercontent.com/119112927/204474960-c02d29af-d82d-49b8-a255-5ba12a1a5398.mp4
+https://user-images.githubusercontent.com/119112927/204474970-8dda56fc-ec01-4857-8ffa-77b624310149.mp4
+https://user-images.githubusercontent.com/119112927/204474981-04809b4c-e130-4ae8-969a-2845e079c029.mp4
+
 import pygame
 import time
 pygame.init() 
@@ -15,13 +19,7 @@ test_sound1.play(-1)
 # test_sound2.play(-1)
 # test_sound3 = pygame.mixer.Sound("C:\\Users\\송유택\\OneDrive\\바탕 화면\\pymata4-master\\examples\\practice\\GameOver1.mp3")
 # test_sound3.play(-1)
-
-#음악다운
-https://user-images.githubusercontent.com/119112927/204474408-082cf7e7-c336-40c9-ac47-7345c88aaa66.mp4
-
-https://user-images.githubusercontent.com/119112927/204474421-42dd74b3-a72a-4811-bc3c-3a38f6122d30.mp4
-
-https://user-images.githubusercontent.com/119112927/204474423-5a8ab409-c55c-4443-92e9-57f45f6f0f5c.mp4
+ 
 
 
 running = True  
