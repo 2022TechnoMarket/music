@@ -6,7 +6,6 @@ screen_width = 1240
 screen_height = 740
 screen = pygame.display.set_mode((screen_width, screen_height))
 
-#화면 타이틀 설정
 pygame.display.set_caption("HwanE Game")
 
 background = pygame.image.load("C:\\Users\\송유택\\OneDrive\\바탕 화면\\pymata4-master\\examples\\practice\\888.png")
@@ -17,7 +16,14 @@ test_sound1.play(-1)
 # test_sound3 = pygame.mixer.Sound("C:\\Users\\송유택\\OneDrive\\바탕 화면\\pymata4-master\\examples\\practice\\GameOver1.mp3")
 # test_sound3.play(-1)
 
-#이벤트 루프
+#음악다운
+https://user-images.githubusercontent.com/119112927/204474408-082cf7e7-c336-40c9-ac47-7345c88aaa66.mp4
+
+https://user-images.githubusercontent.com/119112927/204474421-42dd74b3-a72a-4811-bc3c-3a38f6122d30.mp4
+
+https://user-images.githubusercontent.com/119112927/204474423-5a8ab409-c55c-4443-92e9-57f45f6f0f5c.mp4
+
+
 running = True  
 while running:
     
